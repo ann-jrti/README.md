@@ -44,5 +44,5 @@ Still progressing and learning new technologies.
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreamaso.sm@gmail.com) 
   
   Or via 
-<a href="https://www.linkedin.com/in/andreamaso/" target="_blank">Linkedin</a>
+<a href="https://www.linkedin.com/in/andreamaso/" target="blank">Linkedin</a>
 
