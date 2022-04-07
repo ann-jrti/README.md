@@ -6,7 +6,7 @@ Then I joined a Bootcamp to tryhard and become a Full Stack Web Developer.
 
 Now I can build an end to end app using MERN stack.
 
-Still progressing and learning new technologies.
+Still progressing, learning new technologies and having fun coding.
 
 
 ### Main stack
