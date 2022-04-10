@@ -22,6 +22,7 @@ Still progressing, learning new technologies and having fun coding.
 ![Git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github)
 ![ReactRouter](https://img.shields.io/badge/-react_router-black?style=for-the-badge&logo=reactrouter)
+![ReactQuery](https://img.shields.io/badge/-react_query-black?style=for-the-badge&logo=reactquery)
 ![Postman](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman)
 ![NPM](https://img.shields.io/badge/-npm-black?style=for-the-badge&logo=npm)
 ![Netlify](https://img.shields.io/badge/-netlify-black?style=for-the-badge&logo=netlify)
