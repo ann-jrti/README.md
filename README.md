@@ -1,4 +1,4 @@
-I started my career on programming about mid 2021, learning software fundamentals and basic logic in Javascript on my own. I had fun doing katas and some coding challenges. I created some scripts for my personal use so I could parse Windows paths to be valid on Mac, or making changes on my Spotify account using the official Spotify API.
+I started my career on programming about mid 2021, learning software engineer fundamentals and basic logic in Javascript & Java on my own. I had fun doing katas and some coding challenges. I created some scripts for my personal use so I could parse Windows paths to be valid on Mac, or making changes on my Spotify account using the official Spotify API.
 
 Then I joined a Bootcamp to tryhard and become a Full Stack Web Developer.
 
