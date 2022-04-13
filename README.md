@@ -16,24 +16,28 @@ Still progressing, learning new technologies and having fun coding.
 ![MongoDB](https://img.shields.io/badge/-mongoDB-black?style=for-the-badge&logo=mongodb)
 ![Typescript](https://img.shields.io/badge/-typescript-black?style=for-the-badge&logo=typescript)
 
-### Always using
+### Favs
 ![VSCODE](https://img.shields.io/badge/-visual_studio_code-black?style=for-the-badge&logo=visualstudiocode)
+![Jest](https://img.shields.io/badge/-jest-black?style=for-the-badge&logo=jest)
 ![Git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github)
 ![ReactRouter](https://img.shields.io/badge/-react_router-black?style=for-the-badge&logo=reactrouter)
+![Styledcomponents](https://img.shields.io/badge/-styled_components-black?style=for-the-badge&logo=styledcomponents)
 ![ReactQuery](https://img.shields.io/badge/-react_query-black?style=for-the-badge&logo=reactquery)
 ![Postman](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman)
 ![NPM](https://img.shields.io/badge/-npm-black?style=for-the-badge&logo=npm)
+![Nodemon](https://img.shields.io/badge/-nodemon-black?style=for-the-badge&logo=nodemon)
 ![Netlify](https://img.shields.io/badge/-netlify-black?style=for-the-badge&logo=netlify)
 ![MaterialUI](https://img.shields.io/badge/-material_ui-black?style=for-the-badge)
 
 
-### I've used
-![Jest](https://img.shields.io/badge/-jest-black?style=for-the-badge&logo=jest)
+### Casual
 ![SASS](https://img.shields.io/badge/-sass-black?style=for-the-badge&logo=sass)
 ![Postgre](https://img.shields.io/badge/-postgre_sql-black?style=for-the-badge&logo=postgresql)
 ![Heroku](https://img.shields.io/badge/-heroku-black?style=for-the-badge&logo=heroku)
 ![Figma](https://img.shields.io/badge/-figma-black?style=for-the-badge&logo=figma)
+![AngularJS](https://img.shields.io/badge/-angular-black?style=for-the-badge&logo=angularjs)
+![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
 
 
 ### Contact
