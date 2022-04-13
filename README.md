@@ -1,8 +1,6 @@
-I started my career on programming about mid 2021, learning software engineer fundamentals and basic logic in Javascript & Java on my own. I had fun doing katas and some coding challenges. I created some scripts for my personal use so I could parse Windows paths to be valid on Mac, or making changes on my Spotify account using the official Spotify API.
+I started my career on programming in 2021, learning software engineering fundamentals and basic logic in Javascript and Java on my own. I had fun doing katas and some coding challenges. I created some scripts for my personal use so I could parse Windows paths to be valid on Mac, or making changes on my Spotify account using the official Spotify API.
 
-Then I joined a Bootcamp to tryhard and become a Full Stack Web Developer.
-
-Now I can build an end to end app using MERN stack.
+Then I joined a Bootcamp to become a Full Stack Web Developer. Now I can build an end to end app using MERN stack.
 
 Still progressing, learning new technologies and having fun coding.
 
@@ -16,6 +14,7 @@ Still progressing, learning new technologies and having fun coding.
 ![NodeJS](https://img.shields.io/badge/-node_js-black?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-express-black?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-mongoDB-black?style=for-the-badge&logo=mongodb)
+![Typescript](https://img.shields.io/badge/-typescript-black?style=for-the-badge&logo=typescript)
 
 ### Always using
 ![VSCODE](https://img.shields.io/badge/-visual_studio_code-black?style=for-the-badge&logo=visualstudiocode)
@@ -30,7 +29,6 @@ Still progressing, learning new technologies and having fun coding.
 
 
 ### I've used
-![Typescript](https://img.shields.io/badge/-typescript-black?style=for-the-badge&logo=typescript)
 ![Jest](https://img.shields.io/badge/-jest-black?style=for-the-badge&logo=jest)
 ![SASS](https://img.shields.io/badge/-sass-black?style=for-the-badge&logo=sass)
 ![Postgre](https://img.shields.io/badge/-postgre_sql-black?style=for-the-badge&logo=postgresql)
