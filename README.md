@@ -29,15 +29,17 @@ Still progressing, learning new technologies and having fun coding.
 ![Nodemon](https://img.shields.io/badge/-nodemon-black?style=for-the-badge&logo=nodemon)
 ![Netlify](https://img.shields.io/badge/-netlify-black?style=for-the-badge&logo=netlify)
 ![MaterialUI](https://img.shields.io/badge/-material_ui-black?style=for-the-badge)
+![SASS](https://img.shields.io/badge/-sass-black?style=for-the-badge&logo=sass)
 
 
 ### Casual
-![SASS](https://img.shields.io/badge/-sass-black?style=for-the-badge&logo=sass)
+
 ![Postgre](https://img.shields.io/badge/-postgre_sql-black?style=for-the-badge&logo=postgresql)
 ![Heroku](https://img.shields.io/badge/-heroku-black?style=for-the-badge&logo=heroku)
 ![Figma](https://img.shields.io/badge/-figma-black?style=for-the-badge&logo=figma)
 ![AngularJS](https://img.shields.io/badge/-angular-black?style=for-the-badge&logo=angularjs)
 ![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
+![Webpack](https://img.shields.io/badge/-webpack-black?style=for-the-badge&logo=webpack)
 
 
 ### Contact
