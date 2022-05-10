@@ -34,6 +34,7 @@ Still progressing, learning new technologies and having fun coding.
 
 ### Casual
 
+![Redux](https://img.shields.io/badge/-redux-black?style=for-the-badge&logo=redux)
 ![Postgre](https://img.shields.io/badge/-postgre_sql-black?style=for-the-badge&logo=postgresql)
 ![Heroku](https://img.shields.io/badge/-heroku-black?style=for-the-badge&logo=heroku)
 ![Figma](https://img.shields.io/badge/-figma-black?style=for-the-badge&logo=figma)
